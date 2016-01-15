@@ -1,0 +1,4 @@
+-Index the raw (unpre-processed) CACM corpus http://www.search-engines-book.com/collections/ using Lucene.
+-Build a list of (unique term, term_frequency) pairs over the entire collection. Sort by frequency.
+-Plot the Zipfian curve based on the list generated in (2) 
+-Perform search for the queries 
